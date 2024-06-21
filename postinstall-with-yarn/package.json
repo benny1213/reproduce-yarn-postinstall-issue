@@ -1,0 +1,8 @@
+{
+  "name": "no-deps-postinstall-with-yarn",
+  "version": "1.0.0",
+  "scripts": {
+    "my-own-script": "node scripts/postinstall",
+    "postinstall": "yarn my-own-script"
+  }
+}

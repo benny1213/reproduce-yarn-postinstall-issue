@@ -1,0 +1,7 @@
+{
+  "name": "reproduce-yarn-post-install-issue",
+  "description": "reproduce post install script with yarn command issue",
+  "dependencies": {
+    "postinstall-with-yarn": "./postinstall-with-yarn"
+  }
+}
